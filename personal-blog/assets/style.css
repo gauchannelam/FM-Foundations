@@ -1,0 +1,104 @@
+body {
+  background-color: #E6E6FA;
+  border-color: CadetBlue;
+}
+
+h1 {
+  text-align: center;
+}
+
+#header {
+  background-image: url("img/green.jpg");
+  height: 240px;
+  width: 100%;
+  background-size: cover;
+}
+
+h2 {
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 40px;
+}
+
+h3 {
+  color: Azure;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  font-family: 'Tangerine', serif;
+  font-size: 40px;
+  margin-top: 0;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+h4 {
+  color: DarkMagenta;
+  text-align: center;
+}
+
+.info {
+  background: #EEEFF1;
+  /*margin: 20px auto;*/
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.info h3 {
+  color: DarkSlateGrey;
+}
+
+.about {
+  display: inline-block;
+  width: 45%;
+  vertical-align: text-top;
+}
+
+.about img {
+  height: 10%;
+  width: 35%;
+  border-radius: 25px;
+}
+
+.about p {
+  text-align: start;
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.link {
+  padding-bottom: 100px;
+}
+
+.link .col {
+  float: left;
+  width: 33%;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.link img {
+  height: 32px;
+  margin-top: 16px;
+}
+
+.link h2 {
+  font-weight: 600;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 5px 0;
+}
+
+.footer p {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 11px;
+  text-align: center;
+}
+
+.about-me {
+  height: 300px;
+}
